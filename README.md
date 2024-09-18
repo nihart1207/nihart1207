@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nihart1207@gmail.com**
 
-- 📄 Know about my experiences [Nihar Tripathi Resume](https://drive.google.com/file/d/1cNCh7bDjUDxuDrXs4S2Dc1emuAcmDRWL/view?usp=sharing)
-
 - ⚡ Fun fact **With skills in Python, Java, C++, React JS, and more, plus experience with tools like PowerBI and Amazon AWS, I'm like a tech Swiss Army knife.**
 
 <h3 align="left">Connect with me:</h3>
