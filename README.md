@@ -2,7 +2,7 @@
 <h3 align="center">A Master's student in Computer Science with experience in data analysis, machine learning, and software development, adept at delivering technological solutions.</h3>
 
 # 💫 About Me:
-🔭 I’m currently exploring RAG with Large Language Models.<br><br>🌱 I’m currently learning Hive, Spark, Hadoop, Snowflake<br><br>👨‍💻 All of my projects are available at https://github.com/nihart1207<br><br>💬 Ask me about Data, Analytics, Python, SQL, Data Structures<br><br>⚡ Fun fact With skills in Python, Java, C++, React JS, and more, plus experience with tools like PowerBI and Amazon AWS, I'm like a tech Swiss Army knife.
+🔭 I’m currently exploring RAG with Large Language Models.<br><br>🌱 I’m currently learning Hive, Spark, Hadoop, Snowflake<br><br>👨‍💻 All of my projects are available at https://github.com/nihart1207<br><br>💬 Ask me about Data, Analytics, Python, SQL, Data Structures<br><br>⚡ Fun fact, with skills in Python, Java, C++, React JS, and more, plus experience with tools like PowerBI and Amazon AWS, I'm like a tech Swiss Army knife.
 
 
 ## 🌐 Socials:
