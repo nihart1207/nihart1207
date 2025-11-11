@@ -1,21 +1,107 @@
-<h1 align="center">Hi 👋, I'm Nihar Tripathi</h1>
-<h3 align="center">A Master's student in Computer Science with experience in data analysis, machine learning, and software development, adept at delivering technological solutions.</h3>
-
-# 💫 About Me:
-🔭 I’m currently exploring RAG with Large Language Models.<br><br>🌱 I’m currently learning Hive, Spark, Hadoop, Snowflake<br><br>👨‍💻 All of my projects are available at https://github.com/nihart1207<br><br>💬 Ask me about Data, Analytics, Python, SQL, Data Structures<br><br>⚡ Fun fact, with skills in Python, Java, C++, React JS, and more, plus experience with tools like PowerBI and Amazon AWS, I'm like a tech Swiss Army knife.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar-tripathi-01a8931a1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nihart1207) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nihart1207&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nihart1207&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihart1207&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">👋 Hi, I'm Nihar Tripathi</h1>
+<h3 align="center">Software Developer | Data Engineer | Cloud Enthusiast</h3>
+<h4 align="center">Designing scalable systems and data pipelines that power intelligent, efficient, and impactful software.</h4>
 
 ---
+
+## 💫 About Me
+I’m a highly motivated **Software Developer with over 3 years of professional experience** building robust, data-intensive applications and cloud-native backend systems. My expertise spans **Python, Java, Node.js, AWS, PostgreSQL**, and **React**, with a focus on delivering **high-performance, secure, and maintainable** solutions.  
+
+Currently, I’m working at **Bloomberg** as a **Full Stack Developer**, where I engineer and optimize **large-scale ETL pipelines** and **SAP-integrated microservices** to improve performance, scalability, and data accuracy across financial systems.
+
+I’m passionate about bridging **data engineering, distributed systems, and applied machine learning**, and I thrive in agile, fast-paced environments that challenge me to think creatively and technically.
+
+---
+
+## 🚀 Current Focus
+- 🔭 Exploring **Retrieval-Augmented Generation (RAG)** with **Large Language Models (LLMs)**
+- 🌱 Learning advanced **Big Data frameworks** like **Hive**, **Spark**, **Hadoop**, and **Snowflake**
+- ⚙️ Building modular, cloud-native ETL workflows with **Python**, **AWS**, and **PostgreSQL**
+- 📊 Improving analytics pipelines with **Power BI**, **SQL**, and **data visualization best practices**
+
+---
+
+## 💻 Technical Proficiencies
+**Languages:** Python, Java (J2EE), TypeScript, C++, SQL, Node.js, Express.js  
+**Frameworks & Tools:** Flask, Django, FastAPI, React.js, AWS (Lambda, Glue, S3, EC2, RDS), Argo Workflows, Docker, Terraform  
+**Databases:** PostgreSQL, MongoDB, MySQL, Microsoft SQL Server, DynamoDB  
+**Data Science & ML:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Matplotlib, MLflow  
+**Development Practices:** Agile Software Development, OOP, Microservices Architecture, CI/CD, Debugging & Optimization  
+**Design & Visualization:** Power BI, Canva, Figma  
+
+---
+
+## 🧠 Professional Experience
+
+### **Full Stack Developer (Contract) | Bloomberg LP, New York, USA**  
+*Nov 2024 – Present*  
+- Engineered and optimized **large-scale ETL pipelines** using Python, Pandas, AWS Glue, and PostgreSQL to automate data ingestion and validation for **2M+ records per cycle**.  
+- Re-architected **FXGO SAP Metering** workflows into modular **Python microservices** integrated with SAP REST APIs via Bloomberg’s BMS Service Discovery.  
+- Built **TypeScript/XML dashboards** on the RAPID framework and automated **Argo Workflow deployments** for seamless multi-environment consistency.  
+- Enhanced system reliability through **multiprocessing, batch transactions, and buffered logging**, significantly reducing processing time.  
+- Partnered with DevOps and data teams to create **auditing and monitoring frameworks**, ensuring compliance, accuracy, and traceability.
+
+---
+
+### **Software Developer (Contract) | Collabera LLC, New Jersey, USA**  
+*Jun 2023 – Jul 2024*  
+- Designed **scalable cloud workflows** using AWS (Lambda, EC2, S3, RDS) and Python for distributed data processing.  
+- Developed **FastAPI and GraphQL-based microservices**, optimizing backend scalability and latency.  
+- Managed **PostgreSQL and MySQL** databases, improving data availability and performance.  
+- Automated deployments with **Jenkins, Docker, and Terraform**, streamlining CI/CD operations.  
+
+---
+
+### **Project Intern | Axisray, Gujarat, India**  
+*Oct 2021 – May 2022*  
+- Developed ETL pipelines using **Python, AWS Lambda, Glue, and S3**, enhancing data integration across systems.  
+- Built **FastAPI and GraphQL** microservices for high-performance backend communication.  
+- Deployed **containerized applications** via Docker and GitLab CI pipelines.  
+
+---
+
+### **Python Developer Intern | Drashta Power Consultants Pvt. Ltd., Gujarat, India**  
+*May 2021 – Jul 2021*  
+- Supported development of **Django-based web apps and REST APIs**, improving scalability and maintainability.  
+- Automated **data preprocessing and validation scripts** to streamline reporting and analytics workflows.  
+
+---
+
+## 🎓 Education
+**Master’s in Computer Science**  
+*University of Massachusetts, Boston* (Sep 2022 – May 2024)  
+
+**Bachelor of Engineering in Information Technology**  
+*Gujarat Technological University, India* (Aug 2018 – Jun 2022)
+
+---
+
+## 🧩 Projects
+### **Diabetes Distress Chatbot – UMass Boston**
+- Developed a **web-based Llama3-powered chatbot** to assist newly diagnosed diabetes patients.  
+- Integrated **React JS, MongoDB**, and **LLM monitoring dashboards** to enable real-time healthcare insights.
+
+---
+
+## 📜 Certifications
+- **AWS Cloud Practitioner Essentials** – Amazon Web Services *(2021)*  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar-tripathi-01a8931a1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/nihart1207)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nihart1207)
+
+---
+
+## 📈 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=Nihart1207&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nihart1207&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihart1207&theme=dark&hide_border=true&layout=compact)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Nihart1207&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Last updated: November 2025 -->
