@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Me
-I’m a **Software Developer with over three years of experience** designing and developing scalable, data-driven applications and backend systems. My work focuses on blending **software engineering, data analytics, and cloud computing** to create high-performance solutions that drive impact.
+I’m a **Software Developer** with experience in designing and developing scalable, data-driven applications and backend systems. My work focuses on blending **software engineering, data analytics, and cloud computing** to create high-performance solutions that drive impact.
 
 I’m passionate about building **robust ETL pipelines**, **microservice-based architectures**, and **cloud-native workflows** that enhance reliability, efficiency, and scalability. Over the years, I’ve worked extensively with **Python, Node.js, SQL, and AWS**, optimizing systems that process millions of records while maintaining data integrity and performance.
 
