@@ -1,69 +1,38 @@
 <h1 align="center">👋 Hi, I'm Nihar Tripathi</h1>
 <h3 align="center">Software Developer | Data Engineer | Cloud Enthusiast</h3>
-<h4 align="center">Designing scalable systems and data pipelines that power intelligent, efficient, and impactful software.</h4>
+<h4 align="center">I build scalable systems, data pipelines, and intelligent automation solutions that make technology work smarter.</h4>
 
 ---
 
 ## 💫 About Me
-I’m a highly motivated **Software Developer with over 3 years of professional experience** building robust, data-intensive applications and cloud-native backend systems. My expertise spans **Python, Java, Node.js, AWS, PostgreSQL**, and **React**, with a focus on delivering **high-performance, secure, and maintainable** solutions.  
+I’m a **Software Developer with over three years of experience** designing and developing scalable, data-driven applications and backend systems. My work focuses on blending **software engineering, data analytics, and cloud computing** to create high-performance solutions that drive impact.
 
-Currently, I’m working at **Bloomberg** as a **Full Stack Developer**, where I engineer and optimize **large-scale ETL pipelines** and **SAP-integrated microservices** to improve performance, scalability, and data accuracy across financial systems.
+I’m passionate about building **robust ETL pipelines**, **microservice-based architectures**, and **cloud-native workflows** that enhance reliability, efficiency, and scalability. Over the years, I’ve worked extensively with **Python, Node.js, SQL, and AWS**, optimizing systems that process millions of records while maintaining data integrity and performance.
 
-I’m passionate about bridging **data engineering, distributed systems, and applied machine learning**, and I thrive in agile, fast-paced environments that challenge me to think creatively and technically.
+Currently, I’m exploring **Retrieval-Augmented Generation (RAG)** with **Large Language Models (LLMs)** to create smarter, context-aware systems, and I’m expanding my expertise in **Big Data technologies** like **Hive, Spark, Hadoop, and Snowflake**.
 
----
-
-## 🚀 Current Focus
-- 🔭 Exploring **Retrieval-Augmented Generation (RAG)** with **Large Language Models (LLMs)**
-- 🌱 Learning advanced **Big Data frameworks** like **Hive**, **Spark**, **Hadoop**, and **Snowflake**
-- ⚙️ Building modular, cloud-native ETL workflows with **Python**, **AWS**, and **PostgreSQL**
-- 📊 Improving analytics pipelines with **Power BI**, **SQL**, and **data visualization best practices**
+What drives me is the joy of problem-solving — whether it’s optimizing database performance, streamlining data flows, or designing intuitive APIs. I love working at the intersection of data and engineering, where creativity meets precision.
 
 ---
 
-## 💻 Technical Proficiencies
-**Languages:** Python, Java (J2EE), TypeScript, C++, SQL, Node.js, Express.js  
-**Frameworks & Tools:** Flask, Django, FastAPI, React.js, AWS (Lambda, Glue, S3, EC2, RDS), Argo Workflows, Docker, Terraform  
-**Databases:** PostgreSQL, MongoDB, MySQL, Microsoft SQL Server, DynamoDB  
-**Data Science & ML:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, Matplotlib, MLflow  
-**Development Practices:** Agile Software Development, OOP, Microservices Architecture, CI/CD, Debugging & Optimization  
-**Design & Visualization:** Power BI, Canva, Figma  
+## 🧠 Core Strengths
+- Building scalable **ETL and data processing pipelines**
+- Designing **RESTful and GraphQL microservices** using Python and Node.js  
+- Cloud computing with **AWS (Lambda, Glue, S3, EC2, RDS)**  
+- **Database management and optimization** with PostgreSQL, MongoDB, and MySQL  
+- Implementing **CI/CD pipelines**, containerization, and workflow automation  
+- Applying **machine learning and analytics** using Pandas, Scikit-learn, and PyTorch  
+- Practicing **Agile development, performance tuning, and debugging** at scale  
 
 ---
 
-## 🧠 Professional Experience
-
-### **Full Stack Developer (Contract) | Bloomberg LP, New York, USA**  
-*Nov 2024 – Present*  
-- Engineered and optimized **large-scale ETL pipelines** using Python, Pandas, AWS Glue, and PostgreSQL to automate data ingestion and validation for **2M+ records per cycle**.  
-- Re-architected **FXGO SAP Metering** workflows into modular **Python microservices** integrated with SAP REST APIs via Bloomberg’s BMS Service Discovery.  
-- Built **TypeScript/XML dashboards** on the RAPID framework and automated **Argo Workflow deployments** for seamless multi-environment consistency.  
-- Enhanced system reliability through **multiprocessing, batch transactions, and buffered logging**, significantly reducing processing time.  
-- Partnered with DevOps and data teams to create **auditing and monitoring frameworks**, ensuring compliance, accuracy, and traceability.
-
----
-
-### **Software Developer (Contract) | Collabera LLC, New Jersey, USA**  
-*Jun 2023 – Jul 2024*  
-- Designed **scalable cloud workflows** using AWS (Lambda, EC2, S3, RDS) and Python for distributed data processing.  
-- Developed **FastAPI and GraphQL-based microservices**, optimizing backend scalability and latency.  
-- Managed **PostgreSQL and MySQL** databases, improving data availability and performance.  
-- Automated deployments with **Jenkins, Docker, and Terraform**, streamlining CI/CD operations.  
-
----
-
-### **Project Intern | Axisray, Gujarat, India**  
-*Oct 2021 – May 2022*  
-- Developed ETL pipelines using **Python, AWS Lambda, Glue, and S3**, enhancing data integration across systems.  
-- Built **FastAPI and GraphQL** microservices for high-performance backend communication.  
-- Deployed **containerized applications** via Docker and GitLab CI pipelines.  
-
----
-
-### **Python Developer Intern | Drashta Power Consultants Pvt. Ltd., Gujarat, India**  
-*May 2021 – Jul 2021*  
-- Supported development of **Django-based web apps and REST APIs**, improving scalability and maintainability.  
-- Automated **data preprocessing and validation scripts** to streamline reporting and analytics workflows.  
+## 🛠️ Tech Stack
+**Languages:** Python, Java, TypeScript, C++, SQL  
+**Frameworks & Tools:** Flask, Django, FastAPI, React, Node.js, Express.js, Argo Workflows, Docker, Terraform  
+**Databases:** PostgreSQL, MongoDB, MySQL, DynamoDB, Microsoft SQL Server  
+**Cloud:** AWS (Lambda, Glue, EC2, RDS, S3), Azure  
+**Data & ML:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, MLflow  
+**Visualization & Design:** Power BI, Canva, Figma  
 
 ---
 
@@ -76,10 +45,19 @@ I’m passionate about bridging **data engineering, distributed systems, and app
 
 ---
 
+## 🚀 Current Focus
+- Developing **AI-powered systems** using **RAG + LLMs**  
+- Learning advanced **Big Data frameworks** (Spark, Hive, Snowflake)  
+- Experimenting with **scalable architecture patterns** and **data orchestration pipelines**  
+- Writing cleaner, modular, and test-driven code for distributed systems  
+
+---
+
 ## 🧩 Projects
 ### **Diabetes Distress Chatbot – UMass Boston**
-- Developed a **web-based Llama3-powered chatbot** to assist newly diagnosed diabetes patients.  
-- Integrated **React JS, MongoDB**, and **LLM monitoring dashboards** to enable real-time healthcare insights.
+- Built a web application integrating **Llama3-powered chatbot** for diabetes patient assistance.  
+- Used **React JS** for the frontend and **MongoDB** for data storage.  
+- Developed a healthcare portal for monitoring chatbot-patient interactions and insights.  
 
 ---
 
